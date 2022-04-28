@@ -244,6 +244,7 @@ class _SmsState extends State<Sms> {
                                             color: Colors.black),
                                       ),
                                     ),
+                                    //
                                     Text(
                                       finalmessage![index].body.toString(),
                                       style: const TextStyle(
